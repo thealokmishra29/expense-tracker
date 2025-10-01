@@ -1,10 +1,11 @@
 
 # Expense Management System using MERN Stack
 
-### 🌐 Live Website: [Coming Soon - Will be deployed]
+### 🌐 Live Website:
+https://main.d1sj7cd70hlter.amplifyapp.com/
+Vercel Link: https://expense-tracker-app-three-beryl.vercel.app/
 
 ### �‍💻 **Developer**: Alok Mishra
-### 🙏 **Original Project**: Based on [Priyanshu9898's Expense Tracker](https://github.com/Priyanshu9898/Expense-Tracker-App)
 
 ### �🚀 Local Setup Instructions:
 
